@@ -1,0 +1,10 @@
+{
+  "description": "Enhance communication for Indian regional-language users by enabling voice interactions with ChatGPT, seamlessly integrating speaking into the chat experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
